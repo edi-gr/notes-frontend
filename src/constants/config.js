@@ -1,1 +1,1 @@
-export const BASE_URL = "http://localhost:5555";
+export const BASE_URL = "https://successful-deer-sundress.cyclic.app";
